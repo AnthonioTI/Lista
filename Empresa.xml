@@ -1,0 +1,11 @@
+<site-list version="3">
+  <created-by>
+    <tool>EMIESiteListManager</tool>
+    <version>10.0.14357.1004</version>
+    <date-created>11/16/2018 14:34:08</date-created>
+  </created-by>
+  <site url="dgi.mef.gob.pa">
+    <compat-mode>IE8Enterprise</compat-mode>
+    <open-in>IE11</open-in>
+  </site>
+</site-list>
